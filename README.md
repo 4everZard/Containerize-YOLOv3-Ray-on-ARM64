@@ -44,7 +44,7 @@ jetson-stats is a tool to monitoring and control your NVIDIA Jetson Board.
 After jetson-stats installed, we can run `jtop` on host to monitor the CPU/GPU activities or run `jetson_release -v` in host/container to show the status about your Nvidia Jetson.  
 
 ## Install OpenCV4:
-OpenCV 4.1.1 is installed in Jetson Nano by default, but without CUDA support. Run installOpenCV.sh to compile & install OpenCV 4.4.0 from source.
+OpenCV 4.1.1 is installed in Jetson by default, but without CUDA support. Run installOpenCV.sh to compile & install OpenCV 4.4.0 from source.
 
 `./installOpenCV /usr/local`
 
