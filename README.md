@@ -1,7 +1,7 @@
 # Containerize-YOLOv3-Ray-on-ARM64
 
 
-## Install Nividia Pytorch-L4t docker image:
+## Install Nvidia Pytorch-L4t docker image:
 
 Reference: https://ngc.nvidia.com/catalog/containers/nvidia:l4t-pytorch
 * JetPack 4.4 (L4T R32.4.3)
