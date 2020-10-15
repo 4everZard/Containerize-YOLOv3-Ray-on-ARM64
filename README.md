@@ -79,13 +79,13 @@ If you get `usage: ./darknet` after running `./darknet`, you are done with YOLOv
 
 * Download yolov3-tiny model:
 
-`wget https://pjreddie.com/media/files/yolov3-tiny.weights`
+  `wget https://pjreddie.com/media/files/yolov3-tiny.weights`
 
 * `xhost+`  on host before test yolov3 in container
 
 * test YOLOv3 with any image under data folder:
 
-`./darknet detect cfg/yolov3-tiny.cfg yolov3-tiny.weights data/dog.jpg`
+  `./darknet detect cfg/yolov3-tiny.cfg yolov3-tiny.weights data/dog.jpg`
 
 
 ## Install Ray
